@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ body{
+    background-color:pink;
+ }
+
+h1{
+    color: rgb(31, 28, 28);
+    text-align: center;
+    padding: 20px;
+}
+p{
+    color: rgb(43, 41, 41);
+    font-size: 20px;
+    font-weight: bold;
+}
+.box-1{
+    display: inline-block;
+    margin-left: 400px;
+    margin-top: 200px;
+    
+}
+#button{
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 650px;
+    border-radius: 15px;
+    width:100px;
+    font-weight: bold;
+}
+#button:hover{
+   background-color: violet;
+   color: azure;
+   
+}
+#dice2{
+    /* margin-top: 10px; */
+    margin-left:-100px;
+}
+#dice1{
+    margin-left:-100px ;
+}
+
+
+
+
